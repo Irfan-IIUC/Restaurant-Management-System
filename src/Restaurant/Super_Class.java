@@ -8,10 +8,7 @@ package Restaurant;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author QUAZI HASNAT IRFAN
- */
+
 public class Super_Class {
     
     public double kachchi;
